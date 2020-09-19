@@ -1,5 +1,5 @@
 # datscience
 
-##EDITING THE FILE
+## EDITING THE FILE
 
 This is the Markdown file in the repository.
